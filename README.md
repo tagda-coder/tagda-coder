@@ -1,5 +1,5 @@
 ## Hey, Geek 😎
-<p align="center"><img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3D6ihbzsqBiDy9F9p-Qy2W&ust=1694413947165000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiS9vu1n4EDFQAAAAAdAAAAABAE" alt="Bt">
+<p align="center"><img scr="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x6glkoauy50m7bl7jsg8ddvy6ls53li1zra1sm4d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Bt">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
