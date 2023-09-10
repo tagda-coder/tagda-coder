@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mandeep Malakar</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566137-7a83a280-b0d2-11eb-8153-91e45df98ca8.gif"></a>
+<p align="center"><a href="https://www.youtube.com/tadgacoder"><img title="Tagda Coder" src="https://images.unsplash.com/photo-1607798748738-b15c40d33d57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"></a>
 </p>
 
 <p align="center"border-radius=0px> <img src="https://komarev.com/ghpvc/?username=tagda-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tagda-coder" /> </p>
