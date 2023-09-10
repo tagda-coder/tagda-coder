@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red">Hi 👋, I'm Mandeep Malakar</h1>
+<h1 align="center" style="color: red;">Hi 👋, I'm Mandeep Malakar</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 <p align="center"><a href="https://www.youtube.com/tadgacoder"><img title="Tagda Coder" src="https://images.unsplash.com/photo-1607798748738-b15c40d33d57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"></a>
 </p>
