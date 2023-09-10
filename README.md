@@ -24,5 +24,5 @@
 
 <!--<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tagda-coder&show_icons=true&locale=en" alt="tagda-coder" /></p><br>-->
 
-<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tagda-coder&" alt="tagda-coder" /></p>
+<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tagda-coder&theme="high-contrast" alt="tagda-coder" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagda-coder&show_icons=true&locale=en&layout=compact" alt="tagda-coder" /></p>
