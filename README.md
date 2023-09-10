@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandeep Malakar</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-<p align="center"><iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem"></a></p>
+<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566137-7a83a280-b0d2-11eb-8153-91e45df98ca8.gif"></a>
+</p>
 
 <p align="center"border-radius=0px> <img src="https://komarev.com/ghpvc/?username=tagda-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tagda-coder" /> </p>
 
