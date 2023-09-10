@@ -7,7 +7,7 @@
 </p> -->
   
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/noob-hackers"><img title="Mandeep Malakar " src="https://github-readme-streak-stats.herokuapp.com/?user=tagda-coder&"></a>
+<p align="center"><a href="https://github.com/tagda-coder"><img title="Mandeep Malakar " src="https://github-readme-streak-stats.herokuapp.com/?user=tagda-coder&"></a>
 </p>
 
 <p align="center">
@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+<a href="https://github.com/tagda-coder"><img title="tagda-coder" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagda-coder&show_icons=true&locale=en&layout=compact"></a>
 </p>
