@@ -21,9 +21,9 @@
 <a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <a href="https://github.com/tagda-coder/Termux-Login"><img title="Termux-Login" src="https://github-readme-stats.vercel.app/api/pin/?username=tagda-coder&repo=Termux-Login&theme=highcontrast"></a>
-<a href="https://github.com/tagda-coder/Caller-Assistant"><img title="Caller-Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
-<a href="https://github.com/tagda-coder/App-Opener"><img title="App-Opener" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
-<a href="https://github.com/tagda-coder/MR.FACEBOOK"><img title="Mr.Facebook" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+<a href="https://github.com/tagda-coder/Caller-Assistant"><img title="Caller-Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=tagda-coder&repo=Caller-Assistant&theme=highcontrast"></a>
+<a href="https://github.com/tagda-coder/App-Opener"><img title="App-Opener" src="https://github-readme-stats.vercel.app/api/pin/?username=tagda-coder&repo=App-Opener&theme=highcontrast"></a>
+<a href="https://github.com/tagda-coder/MR.FACEBOOK"><img title="Mr.Facebook" src="https://github-readme-stats.vercel.app/api/pin/?username=tagdacoder&repo=MR.FACEBOOK&theme=highcontrast"></a>
 </p>
 
 <p align="center">
