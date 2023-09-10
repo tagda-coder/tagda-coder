@@ -10,15 +10,7 @@
 <p align="center"><a href="https://github.com/tagda-coder"><img title="Mandeep Malakar " src="https://github-readme-streak-stats.herokuapp.com/?user=tagda-coder&"></a>
 </p>
 
-<p align="center">
-<a href="https://www.youtube.com/tagda-coder"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
-</p>
 
-<p align="center">
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <a href="https://github.com/tagda-coder/MR.FACEBOOK"><img title="Mr.Facebook" src="https://github-readme-stats.vercel.app/api/pin/?username=tagdacoder&repo=MR.FACEBOOK&theme=highcontrast"></a>
 <a href="https://github.com/tagda-coder/Caller-Assistant"><img title="Caller-Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=tagda-coder&repo=Caller-Assistant&theme=highcontrast"></a>
