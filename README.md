@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mandeep Malakar</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-<p align="center"><img scr="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x6glkoauy50m7bl7jsg8ddvy6ls53li1zra1sm4d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="KEYBPARD_GIFS">
+<p align="center"><iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem"></a></p>
 
 <p align="center"border-radius=0px> <img src="https://komarev.com/ghpvc/?username=tagda-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tagda-coder" /> </p>
 
