@@ -13,18 +13,22 @@
 
 ---
 
-### **About Me**
+### About Me
 
-I am a dedicated **Full Stack Developer** specializing in the **MERN** stack, with a strong foundation in **JavaScript**, **Node.js**, and **React**. I'm passionate about building scalable, efficient, and user-friendly web applications from concept to deployment.
+I'm a dedicated **MERN Full Stack Developer** with a passion for building scalable, high-performance web applications. My expertise spans the entire development lifecycle, from architecting robust back-end systems to crafting elegant and responsive front-end user interfaces. I believe in creating solutions that are not only functional but also intuitive and maintainable.
 
-- 🌱 I'm currently expanding my skills with advanced concepts in **JavaScript, Node.js, and React**.
-- 👨‍💻 Explore my projects at [https://github.com/tagda-coder](https://github.com/tagda-coder) to see my work in action.
-- 💬 I'm happy to help with questions about **Bash, Python, or JavaScript**—feel free to ask!
-- 📫 You can reach me directly at **tagdacoder@gmail.com**.
+My core technical stack includes:
+
+* **Frontend:** **React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS**
+* **Backend:** **Node.js, Express.js, MongoDB**
+* **System & Architecture:** **System Design, RESTful APIs**
+* **DevOps & Automation:** **Bash Scripting, CI/CD, and other DevOps practices**
+
+I am committed to writing clean, efficient code and am always eager to take on new challenges. I'm open to collaborations and opportunities that allow me to grow my skills and contribute to impactful projects.
 
 ---
 
-### **Connect with Me**
+### Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/mr_toxic182" target="_blank" rel="noreferrer">
@@ -37,7 +41,7 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN** stack, wi
 
 ---
 
-### **My Toolkit**
+### My Toolkit
 
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -55,7 +59,7 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN** stack, wi
 
 ---
 
-### **Stats & Activity**
+### Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tagda-coder&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;" />
