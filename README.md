@@ -37,6 +37,9 @@ I am committed to writing clean, efficient code and am always eager to take on n
   <a href="https://www.youtube.com/c/tagda coder" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/mandeep-malakar-286939250/" target="_blank" rel="noreferrer">
+    <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
