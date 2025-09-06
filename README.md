@@ -1,28 +1,63 @@
-<h1 align="center" style="color: red;">Hi 👋, I'm Mandeep Malakar</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
-<p align="center"><a href="https://www.youtube.com/tadgacoder"><img title="Tagda Coder" src="https://images.unsplash.com/photo-1607798748738-b15c40d33d57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"></a>
-</p>
+<h1 align="center">Hi there! 👋 I'm Mandeep Malakar</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<p align="center"border-radius=0px> <img src="https://komarev.com/ghpvc/?username=tagda-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tagda-coder" /> </p>
-
-- 🌱 I’m currently learning **JAVASCRIPT, NODE-JS, REACT**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tagda-coder](https://github.com/tagda-coder)
-
-- 💬 Ask me about **BASH, PYTHON, JAVASCRIPT**
-
-- 📫 How to reach me **tagdacoder@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/mr_toxic182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_toxic182" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tagda coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tagda coder" height="30" width="40" /></a>
+  <img src="https://images.unsplash.com/photo-1607798748738-b15c40d33d57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Full Stack Developer" style="border-radius: 10px; width: 100%; max-width: 600px;">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/tagda-coder">
+    <img src="https://komarev.com/ghpvc/?username=tagda-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tagda-coder" /> 
+  </a>
+</p>
 
-<!--<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tagda-coder&show_icons=true&locale=en" alt="tagda-coder" /></p><br>-->
+---
 
-<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tagda-coder&theme="high-contrast" alt="tagda-coder" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagda-coder&show_icons=true&locale=en&layout=compact" alt="tagda-coder" /></p>
+### **About Me**
+
+I am a dedicated **Full Stack Developer** specializing in the **MERN** stack, with a strong foundation in **JavaScript**, **Node.js**, and **React**. I'm passionate about building scalable, efficient, and user-friendly web applications from concept to deployment.
+
+- 🌱 I'm currently expanding my skills with advanced concepts in **JavaScript, Node.js, and React**.
+- 👨‍💻 Explore my projects at [https://github.com/tagda-coder](https://github.com/tagda-coder) to see my work in action.
+- 💬 I'm happy to help with questions about **Bash, Python, or JavaScript**—feel free to ask!
+- 📫 You can reach me directly at **tagdacoder@gmail.com**.
+
+---
+
+### **Connect with Me**
+
+<p align="center">
+  <a href="https://instagram.com/mr_toxic182" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/tagda coder" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### **My Toolkit**
+
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+</p>
+
+---
+
+### **Stats & Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tagda-coder&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tagda-coder&theme=high-contrast" alt="GitHub Streak" />
+</p>
